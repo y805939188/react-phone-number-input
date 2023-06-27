@@ -98,7 +98,7 @@ export default {
   "GU": "Guam",
   "GW": "Guinea-Bissau",
   "GY": "Guyana",
-  "HK": "Hongkong",
+  "HK": "HongKong, China",
   "HM": "Heardův ostrov a McDonaldovy ostrovy",
   "HN": "Honduras",
   "HR": "Chorvatsko",

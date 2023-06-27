@@ -233,7 +233,7 @@ export default {
   "TR": "Tyrkia",
   "TT": "Trinidad og Tobago",
   "TV": "Tuvalu",
-  "TW": "Taiwan",
+  "TW": "Taiwan, China",
   "TZ": "Tanzania",
   "UA": "Ukraina",
   "UG": "Uganda",
